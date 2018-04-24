@@ -1,3 +1,5 @@
+# Write a Python program to print the following string in a specific format (see the output)
+
 l_one = 'Twinkle, twinkle, little star,'
 l_two = 'How I wonder what you are!'
 l_three = 'Up above the world so high,'
